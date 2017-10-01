@@ -36,6 +36,7 @@ module.exports = {
       "vars": "all",
       "args": "none"
     }],
+    "no-console": ["error", { allow: ["log"] }]
     // "strict":[
     //   2,
     //   "never"
